@@ -1,2 +1,2 @@
-# SLP-Tracker
-SLP tracker for Axie Infinity
+# salapi-tracker
+Salapi (SLP) Tracker for Axie Managers and Scholars
